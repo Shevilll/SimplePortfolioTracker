@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shevil.portfolio.PortfolioApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.417 s -- in com.shevil.portfolio.PortfolioApplicationTests

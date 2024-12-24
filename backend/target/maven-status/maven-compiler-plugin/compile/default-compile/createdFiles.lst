@@ -1,0 +1,10 @@
+com/shevil/portfolio/PortfolioApplication.class
+com/shevil/portfolio/repository/StockRepository.class
+com/shevil/portfolio/service/UserService.class
+com/shevil/portfolio/controller/StockController.class
+com/shevil/portfolio/model/User.class
+com/shevil/portfolio/service/StockService.class
+com/shevil/portfolio/controller/UserController.class
+com/shevil/portfolio/model/Stock.class
+com/shevil/portfolio/config/WebConfig.class
+com/shevil/portfolio/repository/UserRepository.class

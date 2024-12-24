@@ -1,0 +1,10 @@
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/PortfolioApplication.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/config/WebConfig.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/controller/StockController.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/controller/UserController.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/model/Stock.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/model/User.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/repository/StockRepository.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/repository/UserRepository.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/service/StockService.java
+/Users/ahmadfaraz/Codes/Projects/SimplePortfolioTracker/backend/src/main/java/com/shevil/portfolio/service/UserService.java
